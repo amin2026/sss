@@ -1,0 +1,1 @@
+a = print('amin jooon')
